@@ -1,0 +1,39 @@
+body {
+    text-align: center;
+    background-color: rgb(113, 114, 155);
+    color: rgb(255, 255, 255);
+    border-style: none;
+    font-family: Verdana, sans-serif;
+}
+
+#homepage {
+    width: 100vw;
+    height: 100vh;
+}
+
+#student {
+    font-size: xx-large;
+    border-radius: 0px;
+    float: left;
+
+    height: 100%;
+    width: 50%;
+
+    background-color: rgb(175, 180, 255);
+}
+
+#teacher {
+    font-size: xx-large;
+    border-radius: 0px;
+    float: right;
+
+    height: 100%;
+    width: 50%;
+
+    background-color: rgb(177, 225, 255);
+}
+
+button,
+input {
+    border-style: none;
+}

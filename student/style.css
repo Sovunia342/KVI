@@ -1,0 +1,17 @@
+body {
+    text-align: center;
+    background-color: #333232;
+    color: rgb(255, 255, 255);
+    border-style: none;
+    font-family: Verdana, sans-serif;
+}
+
+button,
+input {
+    background-color: #5DA9E9;
+    ;
+    border-style: none;
+    border-radius: 7px;
+    font-size: medium;
+    padding: 12px;
+}
